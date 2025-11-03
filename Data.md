@@ -5,43 +5,21 @@ This README explains the structure and purpose of each dataset in the `data/` fo
 ---
 
 
+
 ## Directory Structure (SCC)
 
 ```
 data/
-├── Audio_Song_Actors_01-24 (Actors 1 to 17)/
-│   ├── Actor_01/
-│   ├── Actor_02/
-│   ├── ...
-│   └── Actor_17/
-├── Audio_Song_Actors_01-24 (Actors 19 to 24)/
-│   ├── Actor_19/
-│   ├── ...
-│   └── Actor_24/
-├── Audio_Speech_Actors_01-24 (Actors 1 to 17)/
-│   ├── Actor_01/
-│   ├── ...
-│   └── Actor_17/
-├── Audio_Speech_Actors_01-24 (Actors 19 to 24)/
-│   ├── Actor_19/
-│   ├── ...
-│   └── Actor_24/
-├── Video_Song_ (Actors 1 to 17)/
-│   ├── Actor_01/
-│   ├── ...
-│   └── Actor_17/
-├── Video_Song_ (Actor 19 to 24)/
-│   ├── Actor_19/
-│   ├── ...
-│   └── Actor_24/
-├── Video_Speech_ (Actors 1 to 17)/
-│   ├── Actor_01/
-│   ├── ...
-│   └── Actor_17/
-├── Video_Speech_ (Actor 19 to 24)/
-│   ├── Actor_19/
-│   ├── ...
-│   └── Actor_24/
+├── Audio_Song_Actors_01-24_Actors_1_to_17/
+├── Audio_Song_Actors_01-24_Actors_19_to_24/
+├── Audio_Speech_Actors_01-24_Actor_19_to_24/
+├── Audio_Speech_Actors_01-24_Actors_1_to_17/
+├── Video_Song_Actor_19_to_24/
+│   ├── __MACOSX/
+│   ├── Video_Song_Cut/
+├── Video_Song_Actors_1_to_17/
+├── Video_Speech_Actor_19_to_24/
+├── Video_Speech_Actors_1_to_17/
 ```
 
 ## Key Points
