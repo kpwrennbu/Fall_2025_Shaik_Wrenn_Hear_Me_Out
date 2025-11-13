@@ -2,7 +2,7 @@
 | # | Task                                                                                                                    | Done?                                       |
 | - | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
 | 1 | Build Mel-spectrogram pipeline (librosa.melspectrogram → power_to_db; normalize per-sample)                             | ✅                                           |
-| 2 | 2D CNN baseline (train 3–4 conv blocks, report val/test + confusion matrix)                                             | ✅                                           |
+| 2 | 2D CNN baseline (train 3–4 conv blocks, report val/test + confusion matrix)                                             | ⚠️ - Need to Review                          |
 | 3 | **MFCC vs Mel comparison** (side-by-side metrics & confusion matrices in one notebook or table)                         | ❌                                           |
 | 4 | **CNN–LSTM hybrid** (CNN feature extractor → reshape to sequences → LSTM)                                               | ❌                                           |
 | 5 | **Noise-robustness experiment** (add 0/10/30/50% Gaussian noise; test frozen models)                                    | ❌                                           |
